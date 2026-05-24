@@ -1,0 +1,4 @@
+﻿module: mod-04
+service: product-service
+version: 1.0.0
+created: 2026-05-24
