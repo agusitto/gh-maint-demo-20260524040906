@@ -1,0 +1,4 @@
+﻿module: mod-10
+service: cache
+version: 1.0.0
+created: 2026-05-24
