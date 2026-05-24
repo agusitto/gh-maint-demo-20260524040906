@@ -1,0 +1,4 @@
+﻿module: mod-07
+service: notification-service
+version: 1.0.0
+created: 2026-05-24
